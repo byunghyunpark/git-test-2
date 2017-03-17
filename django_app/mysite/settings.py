@@ -25,8 +25,9 @@ SECRET_KEY = 'fepb=yre0@p312zgm0-w!#h1t!^=-t4+6tb28zr@^&2^i#2_z1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    '.amazonaws.com'
+]
 
 # Application definition
 
@@ -51,6 +52,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'mysite.urls'
+
 
 TEMPLATES = [
     {
