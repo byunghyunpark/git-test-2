@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6707095-edce-4bab-a1c9-36197ba802f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_app/blog/views.py" afterPath="$PROJECT_DIR$/django_app/blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_app/mysite/settings.py" afterPath="$PROJECT_DIR$/django_app/mysite/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_app/mysite/urls.py" afterPath="$PROJECT_DIR$/django_app/mysite/urls.py" />
-    </list>
+    <list default="true" id="e6707095-edce-4bab-a1c9-36197ba802f7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
